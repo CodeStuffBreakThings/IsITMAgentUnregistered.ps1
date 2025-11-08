@@ -1,0 +1,1 @@
+# IsITMAgentUnregistered.ps1
